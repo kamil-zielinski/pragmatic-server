@@ -1,9 +1,91 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "recommendations": [
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "1 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "2 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    },
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "3 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "4 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    },
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "5 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "6 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    },
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "7 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "8 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    },
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "9 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "10 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    },
+    {
+      "id": "1and3011",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/SWCA_-_Two_Stormtroopers.JPG/800px-SWCA_-_Two_Stormtroopers.JPG",
+      "title": "11 Inferno",
+      "summary": "Lorem ipsum....",
+      "rating": 5.3
+    },
+    {
+      "id": "2301abc",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chewbacca_%26_friends.jpg",
+      "title": "12 Star Wars: Episode VII - The Force Awakens​",
+      "summary": "Lorem ipsum....",
+      "rating": 8.2
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "decisions": [
+    { "id": 1, "status": "accepted", "recommendationId": "1and3011" }
+  ]
 }
